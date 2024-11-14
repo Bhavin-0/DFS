@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/anthdm/foreverstore/p2p"
+	"github.com/Bhavin-0/DFS/p2p"
 )
 
 type FileServerOpts struct {
